@@ -1,5 +1,5 @@
 
-This is a KSV4 Obfuscated Script for Roblox.
+This is an Obfuscated Script for Roblox.
 
 Using my Modified OrionLib
 
@@ -10,7 +10,7 @@ Using my Modified OrionLib
 *Disabled Minimize button. Focusing on using Close Button only to Hide the Main Window and Ui
 
 
-Not intended to share or to abuse and exploit. THIS IS FOR EDUCATIONAL PURPOSE ONLY
+An exploit but NOT intended to share or to abuse. THIS IS FOR EDUCATIONAL PURPOSE ONLY
 
 ![1000121268](https://github.com/user-attachments/assets/7b45d865-b442-4c67-8d4d-fae27b21a91f)
 ![1000121269](https://github.com/user-attachments/assets/7107c12d-8fc0-418a-951d-7eab15bd5167)
