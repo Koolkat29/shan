@@ -9,6 +9,7 @@ Using my Modified OrionLib
 
 *Disabled Minimize button. Focusing on using Close Button only to Hide the Main Window and Ui
 
+The GUI works perfectly on Fluxus and Delta. Havent tested on others yet. Tested with ArceusX and Codex mobile but they seems no longer support OrionLib. GUI doesnt respond to any clicks or drag (Will be checking it if I have time)
 
 An exploit but NOT intended to share or to abuse. THIS IS FOR EDUCATIONAL PURPOSE ONLY
 
