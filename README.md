@@ -1,17 +1,26 @@
 
-This is an Obfuscated Script for Roblox.
 
-Using my Modified OrionLib
+# Obfuscated Script for Roblox
 
-*made it a Draggable Main Window for Mobile
+## Overview
 
-*Built a draggable Icon for Mobile (To unhide Main Window and Ui
+This project features a modified version of **OrionLib** designed specifically for mobile platforms. Key enhancements include:
 
-*Disabled Minimize button. Focusing on using Close Button only to Hide the Main Window and Ui
+- **Draggable Main Window**: Users can easily move the main window on mobile devices.
+- **Draggable Icon**: A dedicated icon allows users to unhide the main window and UI.
+- **Close Button Focus**: The minimize button has been disabled, encouraging the use of the close button to hide the main window and UI.
 
-The GUI works perfectly on Fluxus and Delta. Havent tested on others yet. Tested with ArceusX and Codex mobile but they seems no longer support OrionLib. GUI doesnt respond to any clicks or drag (Will be checking it if I have time)
+## Compatibility
 
-An exploit but NOT intended to share or to abuse. THIS IS FOR EDUCATIONAL PURPOSE ONLY
+The GUI has been tested successfully on **Fluxus** and **Delta**. However, it has not been tested on other executors yet. While compatibility checks were performed with **ArceusX** and **Codex Mobile**, these platforms currently do not support OrionLib, resulting in unresponsive GUI interactions.
+
+## Disclaimer
+
+This exploit is intended solely for educational purposes and is not meant for sharing or abuse. 
+
+---
+
+## Screenshots:
 
 ![1000121268](https://github.com/user-attachments/assets/7b45d865-b442-4c67-8d4d-fae27b21a91f)
 ![1000121269](https://github.com/user-attachments/assets/7107c12d-8fc0-418a-951d-7eab15bd5167)
