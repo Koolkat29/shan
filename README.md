@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project features a modified version of **OrionLib** designed specifically for mobile platforms. Key enhancements include:
+This is a LUA Script intended to use for KSV4, a Sword Killstreak game from Roblox. This project also features a modified version of **OrionLib** designed specifically for mobile platforms. Key enhancements of the Gui include:
 
 - **Draggable Main Window**: Users can easily move the main window on mobile devices.
 - **Draggable Icon**: A dedicated icon allows users to unhide the main window and UI.
@@ -13,6 +13,8 @@ This project features a modified version of **OrionLib** designed specifically f
 ## Compatibility
 
 The GUI has been tested successfully on **Fluxus** and **Delta**. However, it has not been tested on other executors yet. While compatibility checks were performed with **ArceusX** and **Codex Mobile**, these platforms currently do not support OrionLib, resulting in unresponsive GUI interactions.
+
+Head over to the release page for the detailed information and features regarding the KSV4 Script.
 
 ## Disclaimer
 
